@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gfjdfeiw938cj/-ajs-use.git"
+    "url": "git+https://github.com/gfjdfeiw938cj/ajs-use.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gfjdfeiw938cj/-ajs-use/issues"
+    "url": "https://github.com/gfjdfeiw938cj/ajs-use/issues"
   },
-  "homepage": "https://github.com/gfjdfeiw938cj/-ajs-use#readme",
+  "homepage": "https://github.com/gfjdfeiw938cj/ajs-use#readme",
   "devDependencies": {
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.8",
